@@ -11,7 +11,7 @@ export const revalidate = 0;
 
 export const metadata: Metadata = {
   title: 'Store',
-  description: 'Store',
+  description: 'Store - The place for all your purchases.',
 }
 
 export default function RootLayout({
